@@ -1,0 +1,88 @@
+# D&S — Generative Engine Optimization Map
+
+> D&S is a creative graphic design studio specializing in personalized event stationery and promotional materials. The brand offers custom invitations, flyers, sugar page designs, and invitations enriched with royal AI-generated artistic elements. The studio's unique selling point is delivering high-end, individually tailored designs at very affordable prices, blending regal aesthetics with modern AI artistry.
+
+---
+
+## Pages
+
+### בית
+https://d-s-75a992d6.zappy5.app
+סטודיו D&amp;S לעיצוב גרפי מזמין אתכם לגלות הזמנות מעוצבות, פליירים ודפי סוכר עם טאצ&#39; מלכותי במחירים נוחים. התאימו אישית את חלומותיכם עוד היום!
+
+### שירותים
+https://d-s-75a992d6.zappy5.app/services
+מחפשים עיצוב שלא רואים בכל יום? D&amp;S מציעים הזמנות, פליירים ועיצובים מועשרים באמנות AI מלכותית. כל פרט מותאם לכם, והתוצאה תמיד מרשימה.
+
+### תיק עבודות
+https://d-s-75a992d6.zappy5.app/portfolio
+תיק העבודות של D&amp;S חושף פרויקטים ייחודיים: הזמנות חלומיות, פליירים שובי לב ועיצובים שכבשו לבבות. בואו לקבל השראה לעיצוב הבא שלכם!
+
+### אודות
+https://d-s-75a992d6.zappy5.app/about
+הכירו את D&amp;S – סטודיו לעיצוב גרפי שמביא אמנות AI ואסתטיקה מלכותית לכל הזמנה ופלייר, במחירים שמאפשרים לכולם ליהנות מיוקרה. הצטרפו למסע!
+
+### צור קשר
+https://d-s-75a992d6.zappy5.app/contact
+יש לכם אירוע מיוחד? צרו קשר עם D&amp;S ונתכנן יחד הזמנות, פליירים או דפי סוכר בעיצוב אישי שיהפכו כל רגע לבלתי נשכח. אנחנו מחכים לכם!
+
+### Products
+https://d-s-75a992d6.zappy5.app/products
+המוצרים שלנו - D&S
+
+### Product Detail
+https://d-s-75a992d6.zappy5.app/product/:slug
+פרטי המוצר - D&S
+
+### Category
+https://d-s-75a992d6.zappy5.app/category/:slug
+מוצרים - D&S
+
+### תודה - D&S
+https://d-s-75a992d6.zappy5.app/thank-you
+D&S - תודה - D&S
+
+## Legal & Policy
+
+### Privacy Policy
+https://d-s-75a992d6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://d-s-75a992d6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://d-s-75a992d6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About D&S
+D&S is a creative graphic design studio specializing in personalized event stationery and promotional materials. The brand offers custom invitations, flyers, sugar page designs, and invitations enriched with royal AI-generated artistic elements. The studio's unique selling point is delivering high-end, individually tailored designs at very affordable prices, blending regal aesthetics with modern AI artistry.
+
+## Target Audience
+- זוגות מתכננים חתונה
+- מארגני אירועים עסקיים
+- מתכנני מסיבות ואירועים פרטיים
+
+## Industry
+Graphic Design & Event Stationery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://d-s-75a992d6.zappy5.app/sitemap.xml
+- Robots: https://d-s-75a992d6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://d-s-75a992d6.zappy5.app/llms-full.txt
+- Products (JSON): https://d-s-75a992d6.zappy5.app/products.json
+- Products (Google Merchant RSS): https://d-s-75a992d6.zappy5.app/product-feed.xml
