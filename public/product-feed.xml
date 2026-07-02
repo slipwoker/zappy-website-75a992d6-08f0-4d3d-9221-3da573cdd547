@@ -4,6 +4,18 @@
     <title>D&amp;S</title>
     <link>https://example.com</link>
     <description>Product feed for D&amp;S</description>
-    <lastBuildDate>Thu, 02 Jul 2026 15:30:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 15:34:48 GMT</lastBuildDate>
+    <item>
+      <g:id>30685137-0501-43e8-9911-82b0b986a0e0</g:id>
+      <g:title>פלייר</g:title>
+      <g:description>פלייר בעיצוב אישי</g:description>
+      <g:link>https://example.com/product/plyyr-kpuc3b</g:link>
+      <g:image_link>https://example.com/assets/product-1783006212106-9sl48h.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>14.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>D&amp;S</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
