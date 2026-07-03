@@ -2,15 +2,15 @@
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
   <channel>
     <title>D&amp;S</title>
-    <link>https://example.com</link>
+    <link>https://d-s.zappy5.app</link>
     <description>Product feed for D&amp;S</description>
-    <lastBuildDate>Fri, 03 Jul 2026 06:38:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 06:38:29 GMT</lastBuildDate>
     <item>
       <g:id>30685137-0501-43e8-9911-82b0b986a0e0</g:id>
       <g:title>פלייר</g:title>
       <g:description>פלייר בעיצוב אישי</g:description>
-      <g:link>https://example.com/product/plyyr-kpuc3b</g:link>
-      <g:image_link>https://example.com/assets/product-1783006212106-9sl48h.webp</g:image_link>
+      <g:link>https://d-s.zappy5.app/product/plyyr-kpuc3b</g:link>
+      <g:image_link>https://d-s.zappy5.app/assets/product-1783006212106-9sl48h.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>14.00 ILS</g:price>
       <g:condition>new</g:condition>

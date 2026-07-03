@@ -7,53 +7,53 @@
 ## Pages
 
 ### בית
-https://example.com
+https://d-s.zappy5.app
 סטודיו D&amp;S לעיצוב גרפי מזמין אתכם לגלות הזמנות מעוצבות, פליירים ודפי סוכר עם טאצ&#39; מלכותי במחירים נוחים. התאימו אישית את חלומותיכם עוד היום!
 
 ### שירותים
-https://example.com/services
+https://d-s.zappy5.app/services
 מחפשים עיצוב שלא רואים בכל יום? D&amp;S מציעים הזמנות, פליירים ועיצובים מועשרים באמנות AI מלכותית. כל פרט מותאם לכם, והתוצאה תמיד מרשימה.
 
 ### תיק עבודות
-https://example.com/portfolio
+https://d-s.zappy5.app/portfolio
 תיק העבודות של D&amp;S חושף פרויקטים ייחודיים: הזמנות חלומיות, פליירים שובי לב ועיצובים שכבשו לבבות. בואו לקבל השראה לעיצוב הבא שלכם!
 
 ### אודות
-https://example.com/about
+https://d-s.zappy5.app/about
 הכירו את D&amp;S – סטודיו לעיצוב גרפי שמביא אמנות AI ואסתטיקה מלכותית לכל הזמנה ופלייר, במחירים שמאפשרים לכולם ליהנות מיוקרה. הצטרפו למסע!
 
 ### צור קשר
-https://example.com/contact
+https://d-s.zappy5.app/contact
 יש לכם אירוע מיוחד? צרו קשר עם D&amp;S ונתכנן יחד הזמנות, פליירים או דפי סוכר בעיצוב אישי שיהפכו כל רגע לבלתי נשכח. אנחנו מחכים לכם!
 
 ### Products
-https://example.com/products
+https://d-s.zappy5.app/products
 המוצרים שלנו - D&S
 
 ### Product Detail
-https://example.com/product/:slug
+https://d-s.zappy5.app/product/:slug
 פרטי המוצר - D&S
 
 ### Category
-https://example.com/category/:slug
+https://d-s.zappy5.app/category/:slug
 מוצרים - D&S
 
 ### תודה - D&S
-https://example.com/thank-you
+https://d-s.zappy5.app/thank-you
 D&S - תודה - D&S
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://d-s.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://d-s.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://d-s.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -63,11 +63,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### פלייר
-https://example.com/product/plyyr-kpuc3b
+https://d-s.zappy5.app/product/plyyr-kpuc3b
 - Price: 14.00 ILS
 - Availability: In stock
 - Description: פלייר בעיצוב אישי
-- Image: https://example.com/assets/product-1783006212106-9sl48h.webp
+- Image: https://d-s.zappy5.app/assets/product-1783006212106-9sl48h.webp
 
 ---
 
@@ -88,8 +88,8 @@ Graphic Design & Event Stationery
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://d-s.zappy5.app/sitemap.xml
+- Robots: https://d-s.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://d-s.zappy5.app/llms-full.txt
+- Products (JSON): https://d-s.zappy5.app/products.json
+- Products (Google Merchant RSS): https://d-s.zappy5.app/product-feed.xml
